@@ -1,3 +1,7 @@
 # Google Cloud SDK w/ Node.js LTS
 
-This is Docker image for the [Google Cloud SDK](https://cloud.google.com/sdk/).
+- Google Cloud SDK
+- Node.js LTS
+- Yarn
+
+This is Docker image for the [dogagenc/node-google-cloud-sdk](https://hub.docker.com/repository/docker/dogagenc/node-google-cloud-sdk).
